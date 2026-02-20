@@ -47,9 +47,8 @@ This dashboard helps HR teams:
 
 
 
-## Project Screenshots
+## Dashboard
 
-(Insert dashboard screenshots here)
 
 
 
