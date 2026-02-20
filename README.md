@@ -60,7 +60,3 @@ This dashboard helps HR teams:
 - Selecting appropriate visuals for storytelling
 - Improving dashboard formatting and consistency
 
-
-
-
-(Insert your LinkedIn post link here)
