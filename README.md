@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+
+![HR Dashboard](Dashboard.png)
+
 This project focuses on analyzing employee attrition trends using Power BI. The dashboard provides data-driven insights to help HR teams understand workforce patterns, employee turnover, and job satisfaction levels.
 
 The goal of this project was to transform raw HR data into meaningful business insights through data cleaning, KPI creation, and interactive visual storytelling.
@@ -44,12 +47,6 @@ This dashboard helps HR teams:
 - Understand demographic trends
 - Analyze employee satisfaction patterns
 - Make data-driven retention strategies
-
-
-
-## Dashboard
-
-![HR Dashboard](Dashboard.png)
 
 
 
