@@ -49,6 +49,7 @@ This dashboard helps HR teams:
 
 ## Dashboard
 
+![HR Dashboard](Dashboard.png)
 
 
 
